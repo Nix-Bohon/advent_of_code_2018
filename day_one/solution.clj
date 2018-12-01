@@ -10,14 +10,14 @@
 
 ; Part Two
 (defn solve [arr]
-        (def seen [])
-        (def i 0)
-        (def freq 0)
-        (while (not (some #(= freq %) seen)) (do
-            (def seen (conj seen freq))
-            (def freq (+ (last seen) (nth arr i)))
-            (def i (mod (inc i) (count arr)))
-        ))
-        freq)
+    (def seen [])
+    (def i 0)
+    (def freq 0)
+    (while (not (some #(= freq %) seen)) (do
+        (def seen (conj seen freq))
+        (def freq (+ (last seen) (nth arr i)))
+        (def i (mod (inc i) (count arr)))
+    ))
+    freq)
 
 (println "Solution Two(" (now) "):"  (solve input))
