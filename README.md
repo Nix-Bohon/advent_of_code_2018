@@ -5,4 +5,9 @@ Advent of Code 2018 Solutions (https://adventofcode.com/2018)
 Part one was pretty easy and natural to code, but part two took a bit more work, and I'm not totally
 happy with how i ended up doing it. I want to refactor to use a `loop` instead of a `while`.
 
-[Solution](day_one/solution.clj)
+[Clojure Solution](day_one/solution.clj)
+
+## Day Two
+Part two presented a good opportunity to use the `for` function.
+
+[Clojure Solution](day_two/solution.clj)
