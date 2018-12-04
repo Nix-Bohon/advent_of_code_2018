@@ -11,3 +11,8 @@ happy with how i ended up doing it. I want to refactor to use a `loop` instead o
 Part two presented a good opportunity to use the `for` function.
 
 [Clojure Solution](day_two/solution.clj)
+
+## Day Three
+This one ended up giving me a lot more trouble (and time) than I initially anticipated, but I ended up finding a pretty reasonable way to approach it.
+
+[Clojure Solution](day_three/solution.clj)
