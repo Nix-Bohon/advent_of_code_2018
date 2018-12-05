@@ -16,3 +16,8 @@ Part two presented a good opportunity to use the `for` function.
 This one ended up giving me a lot more trouble (and time) than I initially anticipated, but I ended up finding a pretty reasonable way to approach it.
 
 [Clojure Solution](day_three/solution.clj)
+
+## Day Four
+I'm starting to feel more comfortable in Clojure. I feel like I am struggling against the basic syntax less, but I think I still prefer F#.
+
+[Clojure Solution](day_four/solution.clj)
