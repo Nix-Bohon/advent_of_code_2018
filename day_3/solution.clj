@@ -1,7 +1,7 @@
 ; Load the input.txt
 (def input (let 
   [
-    filename "day_three/input.txt"
+    filename "day_3/input.txt"
     rgx #"#(\d+) @ (\d+),(\d+): (\d+)x(\d+)"
   ]
   (->>

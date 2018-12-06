@@ -2,7 +2,7 @@
 
 ; Part One
 (def input (->>
-    (slurp "day_one/input.txt")
+    (slurp "day_1/input.txt")
     clojure.string/split-lines
     (map read-string)))
 

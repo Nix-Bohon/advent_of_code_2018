@@ -2,7 +2,7 @@
 
 (def input (let 
   [
-    filename "day_four/input.txt"
+    filename "day_4/input.txt"
     rgx #"^.*:(\d+)] [^ ]+ ([^ ]+).*$"
   ]
   (->>

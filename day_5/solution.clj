@@ -4,7 +4,7 @@
 
 (def input (let 
     [
-      filename "day_five/input.txt"
+      filename "day_5/input.txt"
       ;filename "day_five/sample.txt"
     ]
     (-> 

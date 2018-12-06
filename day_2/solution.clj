@@ -1,5 +1,5 @@
 (def input (->>
-  (slurp "day_two/input.txt")
+  (slurp "day_2/input.txt")
   clojure.string/split-lines))
 
 ; Part One
