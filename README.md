@@ -21,3 +21,8 @@ This one ended up giving me a lot more trouble (and time) than I initially antic
 I'm starting to feel more comfortable in Clojure. I feel like I am struggling against the basic syntax less, but I think I still prefer F#.
 
 [Clojure Solution](day_four/solution.clj)
+
+## Day Five
+Initially, I solved this one with a method that used `loop` and performed all of the reactions in a single pass. It worked and was neat, but it was pretty slow. The solution I ended up checking in uses regex instead and is significantly faster which was great for the second part.
+
+[Clojure Solution](day_five/solution.clj)
