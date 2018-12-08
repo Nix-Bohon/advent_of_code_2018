@@ -31,6 +31,6 @@ Initially, I solved this one with a method that used `loop` and performed all of
 
 [Clojure Solution](day_6/solution.clj)
 
-# Day Seven
+## Day Seven
 
 [Clojure Solution](day_7/solution.clj)
